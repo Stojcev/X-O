@@ -1,0 +1,14 @@
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\bin\Debug\netcoreapp3.1\XsoTocka.exe
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\bin\Debug\netcoreapp3.1\XsoTocka.deps.json
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\bin\Debug\netcoreapp3.1\XsoTocka.runtimeconfig.json
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\bin\Debug\netcoreapp3.1\XsoTocka.runtimeconfig.dev.json
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\bin\Debug\netcoreapp3.1\XsoTocka.dll
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\bin\Debug\netcoreapp3.1\XsoTocka.pdb
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.csproj.AssemblyReference.cache
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.AssemblyInfoInputs.cache
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.AssemblyInfo.cs
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.csproj.CoreCompileInputs.cache
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.dll
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.pdb
+C:\Users\Stojc\source\repos\XsoTocka\XsoTocka\obj\Debug\netcoreapp3.1\XsoTocka.genruntimeconfig.cache
